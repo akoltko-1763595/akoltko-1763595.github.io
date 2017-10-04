@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+}
+
+.top_title {
+    text-align: center;
+    color: firebrick;
+}
+
+.spotify_logo {
+    float: left;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto
+}
+.Second_Line {
+    width: 550px;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+.phpStorm_logo {
+    float: left;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto
+}
+.intro_paragraph {
+    width: 300px;
+    float: left;
+}
+.starting_letter {
+    float: left;
+    width: 0.7em;
+    font-size: 350%;
+    line-height: 80%;
+}
